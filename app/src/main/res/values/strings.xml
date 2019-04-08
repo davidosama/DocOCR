@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DocOCR</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Alpha build</string>
+    <string name="nav_header_subtitle">david.osama07@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="export_to_pdf">Export to PDF</string>
+    <string name="type_text_or_use_camera_button_to_use_ocr">Type text or use camera button to use OCR</string>
+</resources>
